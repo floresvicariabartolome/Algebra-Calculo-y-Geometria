@@ -1,2 +1,2 @@
-# algebra-calculo-geometria-entrega
-Entrega práctica Álgebra , cálculo y geometría . Bootcamp Keepcoding
+# Algebra-Calculo-y-Geometria
+Ejercicios de Álgebra , cálculo y geometría 
